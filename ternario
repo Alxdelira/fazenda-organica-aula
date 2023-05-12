@@ -1,0 +1,3 @@
+let idade = 13;
+
+let maiorIdade = (idade < 18) ? "menor de idade" : "Maior de idadegit"
